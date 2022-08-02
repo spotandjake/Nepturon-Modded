@@ -1,3 +1,3 @@
 # Nepturon-Modded
 
-Tech Based Modpack
+Tech and Magic Based Modpack
