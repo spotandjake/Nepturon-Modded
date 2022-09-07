@@ -1,0 +1,25 @@
+{
+	icon: "mekanism:enrichedalloy",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"18e1fdb3"
+	],
+	tasks: [{
+		uid: "62e2ff83",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichedalloy"
+		}]
+	}],
+	rewards: [{
+		uid: "42634920",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:configurator"
+		}
+	}]
+}

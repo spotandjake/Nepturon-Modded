@@ -1,6 +1,7 @@
 {
-	title: "Steam Age",
+	title: "LV",
+	icon: "gregtech:meta_item_1 1 621",
 	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
+	group: 693050890,
+	default_quest_shape: "square"
 }

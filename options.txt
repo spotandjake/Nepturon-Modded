@@ -17,7 +17,7 @@ ao:2
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:162.55.86.56:25521
 lang:en_us
 chatVisibility:0
 chatColors:true
@@ -89,12 +89,12 @@ key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_keybind.baublesinventory:48
 key_key.toggle_shaders:0
-key_key.betterquesting.quests:41
+key_key.betterquesting.quests:0
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_key.xu2.searchforitems:20
-key_key.ftbquests.quests:0
+key_key.ftbquests.quests:41
 key_key.ftbmoney.shop:0
 key_gregtech.key.armor_mode_switch:50
 key_gregtech.key.armor_hover:35

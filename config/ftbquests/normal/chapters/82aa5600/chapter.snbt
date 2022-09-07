@@ -1,0 +1,7 @@
+{
+	title: "MV",
+	icon: "gregtech:meta_item_1 1 622",
+	always_invisible: false,
+	group: 693050890,
+	default_quest_shape: ""
+}

@@ -1,0 +1,36 @@
+{
+	title: "Starting point for every pack",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Welcome to Nepturon",
+		"Rule 1, don't die, it would be a shame if you did",
+		"Rule 2. Get the creative tank"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "34446cbd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "1bdb21f6",
+		type: "item",
+		item: "harvestcraft:raisincookiesitem",
+		count: 16
+	}]
+}
