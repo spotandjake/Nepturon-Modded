@@ -32,7 +32,7 @@ circuit_assembler.recipeBuilder()
    .outputs(<appliedenergistics2:controller>)
    .duration(40)
    .EUt(512)
-   .cleanroom(CleanroomType.CLEANROOM)
+   .property("cleanroom","cleanroom")
    .buildAndRegister();
 
    
