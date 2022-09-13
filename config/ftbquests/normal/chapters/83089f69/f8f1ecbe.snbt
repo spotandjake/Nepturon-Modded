@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 17.5d,
+	text: [
+		"Welcome to the first GT tier, Steam"
+	],
+	dependencies: [
+		"9733355d"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "0099549c",
+		type: "item",
+		items: [{
+			item: "gregtech:steam_casing"
+		}]
+	}],
+	rewards: [{
+		uid: "6b6ce870",
+		type: "item",
+		item: "gregtech:fluid_pipe_normal 1 260",
+		count: 10
+	}]
+}

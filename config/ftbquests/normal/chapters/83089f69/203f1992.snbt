@@ -1,0 +1,25 @@
+{
+	title: "Gated Base Making",
+	x: 0.0d,
+	y: 10.0d,
+	text: [
+		"Mine a \"little\" bit of cobble and ill give you a free door for your base"
+	],
+	dependencies: [
+		"44e19089"
+	],
+	tasks: [{
+		uid: "e378a118",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "0337bb88",
+		type: "item",
+		item: "minecraft:wooden_door"
+	}]
+}

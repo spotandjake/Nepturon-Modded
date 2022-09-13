@@ -1,0 +1,19 @@
+{
+	title: "Tinkers so early on",
+	x: 0.0d,
+	y: 2.5d,
+	text: [
+		"Tinkers adds tools which can be repaired with the material after it breaks, instead of turning into junk"
+	],
+	dependencies: [
+		"9963bcca"
+	],
+	tasks: [{
+		uid: "dfa300b9",
+		type: "item",
+		items: [{
+			item: "tconstruct:pattern"
+		}],
+		count: 8L
+	}]
+}

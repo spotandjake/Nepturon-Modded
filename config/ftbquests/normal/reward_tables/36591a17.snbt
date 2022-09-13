@@ -1,0 +1,20 @@
+{
+	title: "Axe or Shovel",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "iron"
+			}
+		}
+	},
+	{
+		item: {
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "iron"
+			}
+		}
+	}]
+}

@@ -1,0 +1,53 @@
+{
+	title: "Bronze",
+	icon: "gregtech:meta_ingot 1 260",
+	x: 0.0d,
+	y: 15.0d,
+	text: [
+		"Welcome (almost) to steam, all thats left is to make your first hull!",
+		"tip: turn these into dusts and craft them into bronze dust, then smelt"
+	],
+	dependencies: [
+		"7a52b46a"
+	],
+	tasks: [{
+		uid: "818ce462",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTin",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreTin"
+				}
+			}
+		}],
+		count: 16L,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b01e9ff0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreCopper"
+				}
+			}
+		}],
+		count: 48L,
+		ignore_nbt: 1b
+	}]
+}

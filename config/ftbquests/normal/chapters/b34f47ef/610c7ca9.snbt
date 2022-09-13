@@ -1,0 +1,16 @@
+{
+	title: "Welcome to Steam",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"f8f1ecbe"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "d2d4536e",
+		type: "item",
+		items: [{
+			item: "gregtech:steam_casing"
+		}]
+	}]
+}

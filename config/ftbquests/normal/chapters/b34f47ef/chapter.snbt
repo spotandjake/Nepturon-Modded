@@ -1,6 +1,5 @@
 {
-	title: "LV",
-	icon: "gregtech:meta_item_1 1 621",
+	title: "Steam",
 	always_invisible: false,
 	group: 693050890,
 	default_quest_shape: ""

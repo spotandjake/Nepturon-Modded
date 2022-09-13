@@ -5,7 +5,8 @@
 	text: [
 		"Welcome to Nepturon",
 		"Rule 1, don't die, it would be a shame if you did",
-		"Rule 2. Get the creative tank"
+		"Rule 2. Get the creative tank",
+		"Rule 3. Where are the wooden tools?"
 	],
 	dependency_requirement: "one_completed",
 	tasks: [{

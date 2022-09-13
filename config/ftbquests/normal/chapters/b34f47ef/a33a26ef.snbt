@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "a53ea089",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 1"
+		}],
+		count: 32L
+	},
+	{
+		uid: "60d05a09",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1000"
+		}]
+	}],
+	rewards: [{
+		uid: "28b703c8",
+		type: "item",
+		item: "gregtech:meta_dust 1 324",
+		count: 6
+	}]
+}

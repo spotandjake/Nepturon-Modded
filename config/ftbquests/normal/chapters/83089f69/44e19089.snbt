@@ -1,0 +1,72 @@
+{
+	title: "First Tools",
+	x: 0.0d,
+	y: 7.5d,
+	text: [
+		"Remember that if the iron pickaxe breaks you need iron to repair it"
+	],
+	dependencies: [
+		"998fdece",
+		"1884721f"
+	],
+	tasks: [{
+		uid: "4c596abb",
+		type: "item",
+		items: [{
+			id: "tconstruct:shovel_head",
+			tag: {
+				Material: "flint"
+			}
+		}]
+	},
+	{
+		uid: "d291993d",
+		type: "item",
+		items: [{
+			id: "tconstruct:axe_head",
+			tag: {
+				Material: "flint"
+			}
+		}]
+	},
+	{
+		uid: "b89456be",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "flint"
+			}
+		}]
+	},
+	{
+		uid: "829306d2",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "wood"
+			}
+		}]
+	},
+	{
+		uid: "3d4dc547",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "wood"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "7676168f",
+		type: "item",
+		item: {
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "iron"
+			}
+		}
+	}]
+}

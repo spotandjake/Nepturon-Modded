@@ -1,0 +1,21 @@
+{
+	title: "Get out of Steam Free Card",
+	x: 0.0d,
+	y: 5.5d,
+	text: [
+		"Yes, steam is a hell hole.",
+		"Welcome to LV though, faster machines and more advanced flowcharts",
+		"(quests will be updated to complete this in future updates)"
+	],
+	dependencies: [
+		"a33a26ef",
+		"366ccb1b"
+	],
+	tasks: [{
+		uid: "cdfb88e8",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 621"
+		}]
+	}]
+}
