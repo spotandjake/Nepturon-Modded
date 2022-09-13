@@ -1,6 +1,6 @@
 version:1343
 invertYMouse:false
-mouseSensitivity:0.5
+mouseSensitivity:0.43661973
 fov:0.85
 gamma:1.0
 saturation:0.0
@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["OmniGTCE_Circuits_Usernm.v1_0.2019-11-14.zip"]
 incompatibleResourcePacks:[]
 lastServer:162.55.86.56:25521
 lang:en_us
@@ -49,7 +49,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 narrator:0
 tutorialStep:none
 key_key.attack:-100
